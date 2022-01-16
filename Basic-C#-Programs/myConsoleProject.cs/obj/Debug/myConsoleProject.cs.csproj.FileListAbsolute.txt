@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe.config
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.pdb
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.exe
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.pdb
