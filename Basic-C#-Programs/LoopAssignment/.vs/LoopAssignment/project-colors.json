@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec2fb306-961e-4f27-b56f-2a2ebafb03dc": {
+      "ProjectGuid": "ec2fb306-961e-4f27-b56f-2a2ebafb03dc",
+      "DisplayName": "LoopAssignment",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
