@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4008f517-71b1-4345-978a-d5ba4c66fb86": {
+      "ProjectGuid": "4008f517-71b1-4345-978a-d5ba4c66fb86",
+      "DisplayName": "ConsoleAppAssignment",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
