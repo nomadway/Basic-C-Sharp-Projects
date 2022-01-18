@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\Class_Method\bin\Debug\Class_Method.exe.config
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\Class_Method\bin\Debug\Class_Method.exe
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\Class_Method\bin\Debug\Class_Method.pdb
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\Class_Method\obj\Debug\Class_Method.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\Class_Method\obj\Debug\Class_Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\Class_Method\obj\Debug\Class_Method.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\Class_Method\obj\Debug\Class_Method.exe
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\Class_Method\obj\Debug\Class_Method.pdb

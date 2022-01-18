@@ -1,8 +1,0 @@
-C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\MethodAssignment\obj\Debug\MethodAssignment.csproj.AssemblyReference.cache
-C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\MethodAssignment\obj\Debug\MethodAssignment.csproj.SuggestedBindingRedirects.cache
-C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\MethodAssignment\obj\Debug\MethodAssignment.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\MethodAssignment\bin\Debug\MethodAssignment.exe.config
-C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\MethodAssignment\bin\Debug\MethodAssignment.exe
-C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\MethodAssignment\bin\Debug\MethodAssignment.pdb
-C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\MethodAssignment\obj\Debug\MethodAssignment.exe
-C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\MethodAssignment\obj\Debug\MethodAssignment.pdb
