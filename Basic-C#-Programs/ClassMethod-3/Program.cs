@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassMethod3
+namespace ClassMethod_3
 {
     internal class Program
     {
@@ -13,7 +13,7 @@ namespace ClassMethod3
             int a = 60;
             int b = 70;
 
-            MathOperation n = new MathOperation();
+            MathCal n = new MathCal();
 
             n.selectOne(a, b);
             n.selectOne(num2: b, num1: a);

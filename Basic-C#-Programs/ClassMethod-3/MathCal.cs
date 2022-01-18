@@ -1,14 +1,14 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassMethod3
+namespace ClassMethod_3
 {
-   class MathOperation
+     class MathCal
     {
-        public void selectOne (int num1, int num2)
+        public void selectOne(int num1, int num2)
         {
             num1 = num1 + 20;
             int Pick = num2;
