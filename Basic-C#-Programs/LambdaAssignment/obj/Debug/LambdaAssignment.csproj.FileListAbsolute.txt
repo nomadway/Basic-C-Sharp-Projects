@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\LambdaAssignment\bin\Debug\LambdaAssignment.exe.config
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\LambdaAssignment\bin\Debug\LambdaAssignment.exe
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\LambdaAssignment\bin\Debug\LambdaAssignment.pdb
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\LambdaAssignment\obj\Debug\LambdaAssignment.exe
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\LambdaAssignment\obj\Debug\LambdaAssignment.pdb
