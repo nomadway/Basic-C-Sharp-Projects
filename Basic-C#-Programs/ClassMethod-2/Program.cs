@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassMethod2
+namespace ClassMethod_2
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
@@ -14,7 +14,7 @@ namespace ClassMethod2
             int a = Convert.ToInt32(Console.ReadLine());
             int b = Convert.ToInt32(Console.ReadLine());
             int total;
-            MathOperation n = new MathOperation();
+            Math_Cal n = new Math_Cal();
             total = n.Sum(a, b);
             Console.WriteLine("Sum of " + a + " , " + 50 + " and " + "optional number " + b + " is " + total);
             total = n.Sum(a);
