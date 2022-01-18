@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C1EFA3B2-D1CD-4248-9B72-D197337E42CB}</ProjectGuid>
+    <ProjectGuid>{76EFFAD3-8370-4E5D-A194-517FD0BB07B5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OverloadingAssignment</RootNamespace>
-    <AssemblyName>OverloadingAssignment</AssemblyName>
+    <RootNamespace>Operator_Overload</RootNamespace>
+    <AssemblyName>Operator_Overload</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Employee.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
