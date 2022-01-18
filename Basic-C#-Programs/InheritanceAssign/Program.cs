@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InheritanceAssignment
+namespace InheritanceAssign
 {
-     internal class Program
+    internal class Program
     {
         static void Main(string[] args)
         {

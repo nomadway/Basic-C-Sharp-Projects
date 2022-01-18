@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EAD8B27D-636D-499F-ACD9-BB795C003DA0}</ProjectGuid>
+    <ProjectGuid>{0D228028-3BC3-4F9F-A55F-85406301A0FE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>InheritanceAssignment</RootNamespace>
-    <AssemblyName>InheritanceAssignment</AssemblyName>
+    <RootNamespace>InheritanceAssign</RootNamespace>
+    <AssemblyName>InheritanceAssign</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Employee.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

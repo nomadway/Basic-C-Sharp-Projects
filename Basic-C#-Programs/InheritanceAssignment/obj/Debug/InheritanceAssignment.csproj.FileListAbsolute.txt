@@ -1,3 +1,0 @@
-C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.AssemblyReference.cache
-C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.SuggestedBindingRedirects.cache
-C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.CoreCompileInputs.cache
