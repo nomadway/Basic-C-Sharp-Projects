@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7AC8AC51-AB86-413B-96A7-8D1B921577B9}</ProjectGuid>
+    <ProjectGuid>{E197BD89-57DE-4D91-85A5-36F08EF039C7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClassMethod1</RootNamespace>
-    <AssemblyName>ClassMethod1</AssemblyName>
+    <RootNamespace>ClassMethod_1</RootNamespace>
+    <AssemblyName>ClassMethod-1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Math_Cal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

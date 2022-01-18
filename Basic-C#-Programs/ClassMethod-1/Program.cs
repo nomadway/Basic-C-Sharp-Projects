@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassMethod1
+namespace ClassMethod_1
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
@@ -14,7 +14,7 @@ namespace ClassMethod1
             decimal b = 4.4m;
             string c = "3";
             int total;
-            MathOperation n = new MathOperation();
+            Math_Cal n = new Math_Cal();
             total = n.Sum(a);
             Console.WriteLine("Sum of " + a + " and " + "40" + " is " + total);
             total = n.Difference(b);
@@ -22,6 +22,7 @@ namespace ClassMethod1
             total = n.Product(c);
             Console.WriteLine("Product of " + c + " and " + "20" + " is " + total);
             Console.ReadLine();
+
         }
     }
 }
