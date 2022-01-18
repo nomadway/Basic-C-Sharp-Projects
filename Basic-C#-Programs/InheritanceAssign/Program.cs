@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InheritanceAssign
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {

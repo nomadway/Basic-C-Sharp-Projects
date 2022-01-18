@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InheritanceAssign
 {
-    class Employee : Person
+    public class Employee : Person
     {
         public int ID { get; set; }
     }
