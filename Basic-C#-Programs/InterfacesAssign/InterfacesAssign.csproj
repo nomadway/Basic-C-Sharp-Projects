@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C83CB66A-5B69-4F8C-96F0-872819A4BEF7}</ProjectGuid>
+    <ProjectGuid>{F339CB5E-4F35-4EFA-A504-109EE6C0FFC0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>InterfacesAssignment</RootNamespace>
-    <AssemblyName>InterfacesAssignment</AssemblyName>
+    <RootNamespace>InterfacesAssign</RootNamespace>
+    <AssemblyName>InterfacesAssign</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Employee.cs" />
+    <Compile Include="IQuittable.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
