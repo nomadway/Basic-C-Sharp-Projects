@@ -1,5 +1,5 @@
 # C# Projects
-Projects I made for The Tech Academy demonstrating basic C# and .NET framework utilizations.
+Projects I made for The Academy of Learning demonstrating basic C# and .NET framework utilizations.
 
 ## Projects:
 * [Twenty One](https://github.com/CJScanlan/The-Tech-Academy-Basic-C-Sharp-Projects./tree/main/TwentyOne)
