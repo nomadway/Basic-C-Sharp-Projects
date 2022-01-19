@@ -2,9 +2,9 @@
 Projects I made for The Academy of Learning demonstrating basic C# and .NET framework utilizations.
 
 ## Projects:
-* [Twenty One](https://github.com/CJScanlan/The-Tech-Academy-Basic-C-Sharp-Projects./tree/main/TwentyOne)
+* [Twenty One](https://github.com/nomadway/C-Sharp-Coding-Projects/tree/main/TwentyOne/TwentyOneCardGame)
 * [Car Insurance](https://github.com/CJScanlan/The-Tech-Academy-Basic-C-Sharp-Projects./tree/main/CarInsurance)
-* [Newsletter](https://github.com/CJScanlan/The-Tech-Academy-Basic-C-Sharp-Projects./tree/main/NewsletterAppMVC)
+* [Student Information](https://github.com/CJScanlan/The-Tech-Academy-Basic-C-Sharp-Projects./tree/main/NewsletterAppMVC)
 
 ### Twenty One
 This is a basic console app utilizng .NET Framework to create a Twenty One card game. It includes methods to generate a dealer, deck, and shuffled cards. Logic is used to create the basic rules of Twenty One. 
