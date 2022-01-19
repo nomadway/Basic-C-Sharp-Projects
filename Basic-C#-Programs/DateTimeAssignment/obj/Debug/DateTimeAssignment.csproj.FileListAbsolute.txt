@@ -5,3 +5,4 @@ C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs
 C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\DateTimeAssignment\obj\Debug\DateTimeAssignment.exe
 C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\DateTimeAssignment\obj\Debug\DateTimeAssignment.pdb
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.AssemblyReference.cache
