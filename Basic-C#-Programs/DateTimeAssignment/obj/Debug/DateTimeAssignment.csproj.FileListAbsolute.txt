@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe.config
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\DateTimeAssignment\bin\Debug\DateTimeAssignment.pdb
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\DateTimeAssignment\obj\Debug\DateTimeAssignment.exe
+C:\Users\Administrator\Documents\GitHub\Basic-C-Sharp-Projects\Basic-C#-Programs\DateTimeAssignment\obj\Debug\DateTimeAssignment.pdb
